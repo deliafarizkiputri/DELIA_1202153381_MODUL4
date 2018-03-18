@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DELIAFARIZKIPUTRI_1202153381_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Delia Farizki Putri</item>
+        <item>Azkya Telisha</item>
+        <item>Ariq Adyavi A</item>
+        <item>Fadel Muhammad</item>
+        <item>Fadhil Muhammad</item>
+        <item>Tommy Syamranata</item>
+        <item>Dixky Aditama</item>
+        <item>Algi</item>
+        <item>Fadly</item>
+        <item>Retdi</item>
+    </string-array>
+</resources>
